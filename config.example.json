@@ -1,0 +1,11 @@
+{
+  "garmin_cn": true,
+  "mail_user": "you@example.edu.cn",
+  "mail_host": "mail.example.edu.cn",
+  "mail_port": 993,
+  "mail_label": "学校邮箱",
+  "mail_keychain_service": "li33-life-mail",
+  "mail_pins": [],
+  "mail_min_gap_seconds": 600,
+  "utc_offset_hours": 8
+}
